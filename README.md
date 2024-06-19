@@ -27,7 +27,7 @@ csv_comparison/
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/csv_comparison.git
+    git clone https://github.com/dshankar959/csv_comparison.git
     cd csv_comparison
     ```
 
